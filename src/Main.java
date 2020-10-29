@@ -1,3 +1,7 @@
+import model.Doctor;
+import model.Patient;
+import model.User;
+
 import java.util.Date;
 import static ui.UIMenu.*;
 
