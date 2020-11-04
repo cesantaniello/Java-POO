@@ -2,9 +2,7 @@ package model;
 
 import java.util.Date;
 
-import javax.print.Doc;
-
-public class AppointmentDoctor implements ISchedulable{
+public class AppointmentDoctor implements ISchedulable {
     private int id;
     private Patient patient;
     private Doctor doctor;
