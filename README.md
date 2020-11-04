@@ -1,1 +1,1 @@
-# Java-POO
+# Aplicación de citas médicas con Java
